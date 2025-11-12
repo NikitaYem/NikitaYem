@@ -72,7 +72,7 @@ When I’m not coding, I’m probably experimenting with **graphics rendering**,
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=100&section=footer" alt="Footer"/>
-</p>## Hi there 👋
+</p>
 
 <!--
 **NikitaYem/NikitaYem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
