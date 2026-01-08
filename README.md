@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=200&section=header&text=Nikita%20Yem&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20·%20Automation%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=200&section=header&text=Nikita%20Yemelyanov&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20·%20Automation%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
 </p>
 
 ---
