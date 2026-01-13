@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=200&section=header&text=Nikita%20Yemelyanov&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20·%20Automation%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E1E1E&height=200&section=header&text=Nikita%20Yemelyanov&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Quant%20Developer%20·%20Automation%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
 </p>
 
 ---
 
 ### 👋 Hi there
 
-I'm **Nikita**, a **Software Engineer** who loves building systems that blend **performance, precision, and practicality**.  
+I'm **Nikita**, a **Quant Developer** who loves building systems that blend **performance, precision, and practicality**.  
 I specialize in **C++**, **Python**, and **low-level systems**, with projects ranging from **media players** to **automation pipelines**.
 
 ---
@@ -62,11 +62,6 @@ Each project is an opportunity to go deeper — in performance, structure, and i
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### ⚡ Fun Fact
-When I’m not coding, I’m probably experimenting with **graphics rendering**, **media codecs**, or automating something that probably shouldn’t be automated. 😄
 
 ---
 
